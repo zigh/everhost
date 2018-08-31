@@ -5,6 +5,12 @@
 	"apiurl":"aaHR0cDovL2FwaS54eXl4LnhpYW5neWFuZ2dhbWUuY29tOjkwMDkv",
 	"loginserver":"aZ2FtZS54eXl4LnhpYW5neWFuZ2dhbWUuY29t",
 	"recordurl":"aaHR0cDovLzM5LjEwOC4xMzMuOTg6ODAwNS9hcGkvRmlsZUludGVyZmFjZS9Eb3duTG9hZEdhbWVSZWNvcmRGaWxlP3JlY29yZGlkPQ==",
-	"weburl":"aaHR0cDovL2g1Z2FtZS54aWFuZ3lhbmdnYW1lLmNvbQ=="
+	"weburl":"aaHR0cDovL2g1Z2FtZS54aWFuZ3lhbmdnYW1lLmNvbQ==",
+	"notice":
+	{
+		"msg":"a5rWL6K+V6YCa55+l5rWL6K+V6YCa55+l5rWL6K+V6YCa55+l5rWL6K+V6YCa55+l5rWL6K+V6YCa55+l5rWL6K+V6YCa55+l5rWL6K+V6YCa55+l5rWL6K+V6YCa55+l5rWL6K+V6YCa55+l5rWL6K+V6YCa55+l5rWL6K+V6YCa55+l5rWL6K+V6YCa55+l5rWL6K+V6YCa55+laHR0cDovL3hpYW5neWFuZ2dhbWUuY29t",
+		"startver":0,
+		"endver":1
+	}
 }
 

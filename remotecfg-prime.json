@@ -1,0 +1,9 @@
+{
+	"enabled":false,
+	"loginport":18600,
+	"friendport":18630,
+	"apiurl":"http://api.xyyx.xiangyanggame.com:9009/",
+	"loginserver":"game.xyyx.xiangyanggame.com",
+	"recordurl":"http://39.108.133.98:8005/api/FileInterface/DownLoadGameRecordFile?recordid=",
+	"weburl":"http://h5game.xiangyanggame.com"
+}
