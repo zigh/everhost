@@ -1,2 +1,15 @@
-
+{
+	"enabled":false,
+	"loginport":18600,
+	"friendport":18630,
+	"apiurl":"aaHR0cDovL2FwaS54eXl4LnhpYW5neWFuZ2dhbWUuY29tOjkwMDkv",
+	"loginserver":"aZ2FtZS54eXl4LnhpYW5neWFuZ2dhbWUuY29t",
+	"recordurl":"aaHR0cDovLzM5LjEwOC4xMzMuOTg6ODAwNS9hcGkvRmlsZUludGVyZmFjZS9Eb3duTG9hZEdhbWVSZWNvcmRGaWxlP3JlY29yZGlkPQ==",
+	"weburl":"aaHR0cDovL2g1Z2FtZS54aWFuZ3lhbmdnYW1lLmNvbQ==",
+	"notice":
+	{
+		"msg":"b5qyi6L+O5p2l5Yiw6LGh5qC35ri45oiPLOWumOaWuee9keermSBodHRwOi8vdXBkYXRlLnhpYW5neWFuZ2dhbWUuY29tLw==",
+		"startver":1000000
+	}
+}
 
