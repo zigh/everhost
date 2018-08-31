@@ -1,5 +1,5 @@
 {
-	"enabled":true,
+	"enabled":false,
 	"loginport":18600,
 	"friendport":18630,
 	"apiurl":"aaHR0cDovL2FwaS54eXl4LnhpYW5neWFuZ2dhbWUuY29tOjkwMDkv",
@@ -9,7 +9,7 @@
 	"notice":
 	{
 		"msg":"b5qyi6L+O5p2l5Yiw6LGh5qC35ri45oiPLOWumOaWuee9keermSBodHRwOi8vdXBkYXRlLnhpYW5neWFuZ2dhbWUuY29tLw==",
-		"startver":0
+		"startver":1000000
 	}
 }
 
